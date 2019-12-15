@@ -1,9 +1,15 @@
 def using_while
   levitation_force = 6
-	loop "Wingandium Leviosa" < 10
-	Wingandium_Leviosa = +1 
-	puts "Wingandium Leviosa {Wingandium Leviosa}" 
-  #your code here
+while levitation_force < 10	do
+	puts "Wingandium Leviosa
+		Wingandium_Leviosa = +1 
+ end
+
+puts levitation_force = 10 
+
+    
+end
+
 end
 
 puts levitation_force
