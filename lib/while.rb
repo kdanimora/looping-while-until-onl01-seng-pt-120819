@@ -6,4 +6,5 @@ def using_while
   #your code here
 end
 
+puts levitation_force
 
